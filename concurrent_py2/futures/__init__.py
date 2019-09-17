@@ -5,8 +5,6 @@
 
 __author__ = 'Brian Quinlan (brian@sweetapp.com)'
 
-print("PYTHON2!!!!!!!!!!!!!!1\n\n PYTHONON2")
-
 from concurrent_py2.futures._base import (FIRST_COMPLETED,
                                       FIRST_EXCEPTION,
                                       ALL_COMPLETED,
